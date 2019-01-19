@@ -5,9 +5,7 @@ Flubber
 # Maintenance stop by original developer
 # Offical last version is 1.0.1
 
-'''
-implementation 'com.appolica:flubber:1.0.1'
-'''
+`implementation 'com.appolica:flubber:1.0.1'`
 
 <img src="https://github.com/Appolica/Flubber/blob/develop/logo.png?raw=true" data-canonical-src="https://github.com/Appolica/Flubber/blob/develop/logo.png?raw=true" width="350" height="250" alt="FlubberLogo" />
 
